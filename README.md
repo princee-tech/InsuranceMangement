@@ -33,3 +33,9 @@ Spring Data JPA
 mysql Services
 lombok
 Spring boot DevTools
+How to Run Locally
+To run the platform locally, follow these steps
+Open the project in your IDE and wait for dependencies to be installed.
+Run the application class: InsuranceApplication.
+Open the application in your browser: http://localhost:9092
+go to postman ( ere we can perform crud operations);
